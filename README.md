@@ -14,7 +14,7 @@
 
 - **Programming Language:** Python 3.12
 - **OS:** Windows 10
-- **Online Editor / IDE:** VSCode, [OnlineGDB](https://www.onlinegdb.com/7GB7WkwMy)
+- **Online Editor:** [OnlineGDB](https://www.onlinegdb.com/7GB7WkwMy)
 ---
 
 ## Project Overview
