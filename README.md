@@ -6,7 +6,7 @@
 ## Team Members
 
 - **Luis Alfonso Agudelo Ramirez**  
-- **Julián Lara**
+- **Julián Lara Aristizabal**
 
 ---
 
