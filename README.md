@@ -67,31 +67,7 @@ Used in Algorithm 3 to show how strings are derived step-by-step.
 
 ## How to Run the Project
 
-### Option 1 (Run from Terminal)
-
-1. Make sure Python 3 is installed:
-   ```bash
-   python --version
-   ```
-
-2. Navigate to the folder containing the scripts:
-   ```bash
-   cd path/to/your/project
-   ```
-
-3. Run the main script:
-   ```bash
-   python Main.py
-   ```
-
-   If you're on macOS or Linux and `python` maps to Python 2, use:
-   ```bash
-   python3 Main.py
-   ```
-
----
-
-### Option 2 (Run from an IDE or OnlineGDB)
+### Run from OnlineGDB
 
 1. Open the project in your IDE or copy the code into [OnlineGDB](https://www.onlinegdb.com/7GB7WkwMy)
 2. Open `Main.py`
