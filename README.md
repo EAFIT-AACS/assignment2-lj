@@ -3,6 +3,20 @@
 **Course:** "Lenguajes Formales" SI2002-1 (7308)
 **Professor:** Adolfo Andrés Castro Sánchez  
 
+## Team Members
+
+- **Luis Alfonso Agudelo Ramirez**  
+- **Julián Lara**
+
+---
+
+## Tools & Environment
+
+- **Programming Language:** Python 3.12
+- **OS:** Windows 10
+- **Online Editor / IDE:** VSCode, [OnlineGDB](https://www.onlinegdb.com/7GB7WkwMy)
+---
+
 ## Project Overview
 
 This repository contains the implementation of Assignment 2 for the Formal Languages course.  
@@ -49,20 +63,6 @@ This module contains an enhanced `PDA` class:
 
 Used in Algorithm 3 to show how strings are derived step-by-step.
 
----
-
-## Team Members
-
-- **Luis Alfonso Agudelo Ramirez**  
-- **Julián Lara**
-
----
-
-## Tools & Environment
-
-- **Programming Language:** Python 3.12
-- **OS:** Windows 10
-- **Online Editor / IDE:** VSCode, [OnlineGDB](https://www.onlinegdb.com/7GB7WkwMy)
 ---
 
 ## How to Run the Project
